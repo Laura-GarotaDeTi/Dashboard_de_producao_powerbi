@@ -17,6 +17,6 @@ layout no figma e foi importado para o power bi
 
 
 
-![Dashboard](imagem/Dash_produção.png)
+![Dashboard](Imagem/Dash_prod.png)
 
 
